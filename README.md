@@ -2,6 +2,7 @@
 1. Before you run this program, make sure you have a aws account and have it configured to your system using cli <aws configure>
 You will need AWSAccessKeyId and AWSSecretKey for that.
 2. You will need your .pem file.
+3. You need to import time, boto3, json, etc...
 
 ## Program objective: Create instance then stop or terminate the instances we created
 There are several files. But you only need to run "load.py", <Usage python load.py> 
